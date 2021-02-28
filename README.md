@@ -1,2 +1,1 @@
-# My Projects
-A showcase for some of the projects I made.
+This is a showcase for some of the projects I made.
