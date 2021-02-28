@@ -1,0 +1,3 @@
+1.Get the latest GRBL library release from here: https://github.com/grbl/grbl
+2.In Arduino IDE, go to skitch-> include library -> add .ZIP library and select the GRBL library 
+3.Go to file -> examples -> GRBL -> GRBLuplode , uplode it to arduino and done!
